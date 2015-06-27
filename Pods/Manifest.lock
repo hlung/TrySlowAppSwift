@@ -1,0 +1,33 @@
+PODS:
+  - ActionSheetPicker-3.0 (1.6.2)
+  - Alamofire (1.2.3)
+  - DGActivityIndicatorView (1.0)
+  - JazzHands (0.2.1)
+  - KeychainAccess (1.2.1)
+  - KVNProgress (2.2.1)
+  - NPReachability (0.2.0)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 1.6.1)
+  - Alamofire (~> 1.2.1)
+  - DGActivityIndicatorView
+  - JazzHands (~> 0.2.1)
+  - KeychainAccess
+  - KVNProgress (~> 2.2.1)
+  - NPReachability (~> 0.2.0)
+  - SDWebImage (~> 3.7.2)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: cc9f90ae785070623e9b972270013c3242190fb0
+  Alamofire: 5550bf0b575ed1a4bf9be572f9463e1015cc169e
+  DGActivityIndicatorView: 980091f8d8cc647a1af7804660272e64aef9e516
+  JazzHands: d2343c3f2f9d70598d0cad8f521ce3893842a44a
+  KeychainAccess: 3d7922baf90762a976adb7f6030d74c1a4110a1d
+  KVNProgress: 7001d2d16a2755cee5599e8e485befe056f2197b
+  NPReachability: a6d51e365bc4d277be2c9c9b6bdf1f0dcba99eea
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+
+COCOAPODS: 0.37.2
